@@ -1,0 +1,7 @@
+---> to include jquery/javascript code  in html use the script tag to link the .js file code in html 
+---> use the link tag in head tag to include the .css file code to out html page 
+
+like this  : 
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+</head>
