@@ -5,7 +5,11 @@ like this  :
 <head>
   <link rel="stylesheet" type="text/css" href="style.css"> 
 </head>
+<<<<<<< HEAD
 
 
 
 note  : hi this anil & i wriiten this line to update the content in remote repo as per the content in our local repo.
+=======
+hi this is anil 
+>>>>>>> 96c3c0deac5ea9f030f553653054ff11794be878
